@@ -1,3 +1,6 @@
+//Run cmd:-  	javac Divisible.java
+//		java Divisible
+
 import java.util.Scanner;
 
 public class Divisible {
